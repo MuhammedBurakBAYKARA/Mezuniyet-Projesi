@@ -1,0 +1,5 @@
+discord.py
+sounddevice
+numpy
+scipy
+SpeechRecognition
